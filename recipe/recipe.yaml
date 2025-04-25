@@ -28,7 +28,6 @@ requirements:
     - importlib-resources
     - requests
     - pandas
-    - pystow
     - skunk
 
 tests:
